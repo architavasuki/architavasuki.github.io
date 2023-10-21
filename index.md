@@ -17,7 +17,8 @@
 
 ---
 
-### Category Name 2
+### Skills-based projects
+A selection of smaller projects demonstrating specific data science and ML skills.
 
 - [Genetic Algorithm Project](https://github.com/architavasuki/genetic_algorithms){:target="_blank"}{:rel="noopener noreferrer"}[, Article](https://themathcompany.com/blog/from-route-to-resource-optimization-augmenting-innovation-with-genetic-algorithms){:target="_blank"}{:rel="noopener noreferrer"}
 - [Project 2 Title](http://example.com/)
