@@ -3,7 +3,7 @@ layout: default
 title: Archita Vasuki
 ---
 
-<img src="https://ext.same-assets.com/1232980843/938722091.jpeg" class="center-img" alt="Quarter Mile Cars">
+<img src="assets/img/fast-car.jpg" class="center-img" alt="Archita Vasuki">
 
 <div class="essays">
   <a href="essays/i-literally-dont-know">I Literally Don't Know</a>
