@@ -24,6 +24,13 @@ title: Archita Vasuki
   <a href="essays/linkedin-posts">linkedin posts i like</a>
 </div>
 
+<h2>Projects</h2>
+<div class="projects">
+  <a href="/projects/project-one">Project One Title</a>
+  <a href="/projects/project-two">Another Interesting Project</a>
+  <a href="/projects/project-three">Project Three: The Finale</a>
+</div>
+
 <h1>Projects</h1>
 
 <div class="projects">
