@@ -27,14 +27,19 @@ title: Archita Vasuki
 <div style="text-align: center;">***</div>
 <a href="#projects" style="color: #403324; text-decoration: none; font-size: 1em;">Projects</a>
 <div class="projects">
-  <a href="/projects/project-one">Personalized Email Promo Campaigns for Fortune 50 Automotive Company</a>
-  <ul>
-    <li>collaborated with the marketing team to execute their email campaigns</li>
-    <li>worked with them for 2 years from 2020 till 2022 and the market conditions were pretty bad especially for the automobile sector due to two reasons:
-        1) semi-conductor chip shortages
-        2) covid-19</li>
-    <li>despite the pandemic induced market decline in automobile sales, the ml solutions helped client with a total of ~$3M increase in profit</li>
-  </ul>
+  <div style="display: flex; align-items: flex-start; margin: 1.5rem 0;">
+    <img src="assets/img/project1.jpg" alt="Project 1" style="width: 25%; margin-right: 20px; object-fit: cover;">
+    <div style="flex: 1;">
+      <a href="/projects/project-one">Personalized Email Promo Campaigns for Fortune 50 Automotive Company</a>
+      <ul style="line-height: 1.4; margin-top: 1rem;">
+        <li style="margin-bottom: 0.8rem;">collaborated with the marketing team to execute their email campaigns</li>
+        <li style="margin-bottom: 0.8rem;">worked with them for 2 years from 2020 till 2022 and the market conditions were pretty bad especially for the automobile sector due to two reasons:
+            1) semi-conductor chip shortages
+            2) covid-19</li>
+        <li style="margin-bottom: 0.8rem;">despite the pandemic induced market decline in automobile sales, the ml solutions helped client with a total of ~$3M increase in profit</li>
+      </ul>
+    </div>
+  </div>
   <a href="/projects/project-two">Another Interesting Project</a>
   <a href="/projects/project-three">Project Three: The Finale</a>
 </div>
