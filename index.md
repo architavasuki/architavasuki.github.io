@@ -24,23 +24,17 @@ title: Archita Vasuki
   <a href="essays/linkedin-posts">linkedin posts i like</a>
 </div>
 
-<h2>Projects</h2>
+<div style="text-align: center;">***</div>
+<a href="#projects" style="color: #403324; text-decoration: none; font-size: 1em;">Projects</a>
 <div class="projects">
-  <a href="/projects/project-one">Project One Title</a>
+  <a href="/projects/project-one">Personalized Email Promo Campaigns for Fortune 50 Automotive Company</a>
+  <ul>
+    <li>collaborated with the marketing team to execute their email campaigns</li>
+    <li>worked with them for 2 years from 2020 till 2022 and the market conditions were pretty bad especially for the automobile sector due to two reasons:
+        1) semi-conductor chip shortages
+        2) covid-19</li>
+    <li>despite the pandemic induced market decline in automobile sales, the ml solutions helped client with a total of ~$3M increase in profit</li>
+  </ul>
   <a href="/projects/project-two">Another Interesting Project</a>
   <a href="/projects/project-three">Project Three: The Finale</a>
-</div>
-
-<h1>Projects</h1>
-
-<div class="projects">
-  <div class="project">
-    <a href="projects/project1">Personalized Email Promo Campaigns for Fortune 200 Automotive Company</a>
-    <ul>
-      <li>I worked with a Fortune 50 Automobile company where I primarily collaborated with the marketing team to execute their email campaigns. I worked with them for 2 years from 2020 till 2022 and the market conditions were pretty bad especially for the automobile sector due to two reasons - 
-1) semi-conductor chip shortages 
-2) COVID-19 </li>
-      <li>Despite the pandemic induced market decline in automobile sales, the ML solutions helped client with a total of ~$3M increase in profit</li>
-    </ul>
-  </div>
 </div>
