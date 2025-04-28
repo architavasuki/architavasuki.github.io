@@ -55,9 +55,9 @@ body {
 .center-img {
   display: block;
   margin: 0 auto 2rem auto;
-  max-width: 620px;
+  max-width: 465px; /* Reduced by 1/4 from 620px */
   width: 100%;
-  height: auto;
+  height: 75%; /* Reduced by 1/4 from 100% */
 }
 
 .essays {
