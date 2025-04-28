@@ -50,10 +50,10 @@ title: Archita Vasuki
         <li style="margin-bottom: 0.8rem;">collaborated with the data science team and UK category manager to build price elasticity models, score cards and dashboard</li>
         <li style="margin-bottom: 0.8rem;">dashboard enabled simulating changes in volume and revenue with change in price elasticity values wrt competitors
         <li style="margin-bottom: 0.8rem;">solution enabled additional ~$2M increase in profit for uk region</li>
-      </ul>
-    </div>
-  </div>
+      <!-- </ul> -->
+    <!-- </div> -->
+  <!-- </div> -->
   
   <!-- <a href="/projects/project-two">Another Interesting Project</a>
   <a href="/projects/project-three">Project Three: The Finale</a> -->
-</div>
+<!-- </div> -->
