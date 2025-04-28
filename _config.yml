@@ -1,0 +1,8 @@
+title: Archita Vasuki
+description: Personal writing site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty

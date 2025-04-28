@@ -7,7 +7,7 @@ layout: default
 
 Welcome to your first sample essay! You can write in Markdown here. 
 
-Here’s an embedded image (upload your images to the `assets/img/` folder):
+Here's an embedded image (upload your images to the `assets/img/` folder):
 
 ![Fast Cars](../assets/img/fast-cars.jpg)
 
