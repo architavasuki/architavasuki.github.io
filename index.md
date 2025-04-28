@@ -40,6 +40,20 @@ title: Archita Vasuki
       </ul>
     </div>
   </div>
-  <a href="/projects/project-two">Another Interesting Project</a>
-  <a href="/projects/project-three">Project Three: The Finale</a>
+
+<div class="projects">
+  <div style="display: flex; align-items: flex-start; margin: 1.5rem 0;">
+    <img src="assets/img/project2.jpg" alt="Project 2" style="width: 25%; margin-right: 20px; object-fit: cover;">
+    <div style="flex: 1;">
+      <a href="/projects/project-one">Price Elasticity Dashboard for Fortune 200 CPG Company Category Managers</a>
+      <ul style="line-height: 1.4; margin-top: 1rem;">
+        <li style="margin-bottom: 0.8rem;">collaborated with the data science team and UK category manager to build price elasticity models, score cards and dashboard</li>
+        <li style="margin-bottom: 0.8rem;">dashboard enabled simulating changes in volume and revenue with change in price elasticity values wrt competitors
+        <li style="margin-bottom: 0.8rem;">solution enabled additional ~$2M increase in profit for uk region</li>
+      </ul>
+    </div>
+  </div>
+  
+  <!-- <a href="/projects/project-two">Another Interesting Project</a>
+  <a href="/projects/project-three">Project Three: The Finale</a> -->
 </div>
