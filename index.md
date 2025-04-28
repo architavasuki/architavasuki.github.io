@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quarter Mile
+title: Archita Vasuki
 ---
 
 <style>
@@ -10,14 +10,16 @@ body {
   color: #403324;
   margin: 0;
   min-height: 100vh;
+  text-align: center;
 }
 .nav {
   width: 100%;
   max-width: 750px;
   border-bottom: 1px solid #b3b3ac;
   display: flex;
-  justify-content: space-between;
-  margin: 2.5rem auto 2.5rem auto;
+  justify-content: center;
+  gap: 2rem;
+  margin: 2.5rem auto;
   padding-bottom: 0.5rem;
 }
 .nav a {
@@ -44,6 +46,8 @@ body {
 .essays a {
   color: #403324;
   text-decoration: none;
+  display: block;
+  margin: 1rem 0;
 }
 .essays a:hover {
   text-decoration: underline;
@@ -57,46 +61,11 @@ body {
   text-align: center;
   font-size: 1.2em;
 }
-.newsform {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 400px;
-  margin: 1.5rem auto;
-  gap: 0.7rem;
-}
-.newsform label {
-  text-align: center;
-  font-size: 0.98em;
-}
-.newsform .inputs {
-  display: flex;
-  width: 100%;
-  gap: 7px;
-}
-.newsform input[type="email"] {
-  flex: 1;
-  padding: 6px;
-  border: 1px solid #b3b3ac;
-  font-size: 1em;
-}
-.newsform input[type="submit"] {
-  padding: 6px 18px;
-  border: 1px solid #b3b3ac;
-  background: #fbfbeb;
-  font-size: 1em;
-  cursor: pointer;
-  transition: background 0.2s;
-}
-.newsform input[type="submit"]:hover {
-  background: #d3d3cd;
-}
 </style>
 <link href="https://fonts.googleapis.com/css?family=Inter:400,400italic&display=swap" rel="stylesheet">
 
 <div class="nav">
   <a href="/">Writing</a>
-  <a href="#subscribe">Subscribe</a>
   <a href="#contact">Contact</a>
 </div>
 
@@ -104,23 +73,15 @@ body {
 
 <div class="essays">
 
-[Sample Essay 1](essays/essay1.md)
+[Sample Essay 1](essays/essay1.md) - Sample Essay 1
 
-[Sample Essay 2](essays/essay2.md)
+[Sample Essay 2](essays/essay2.md) - Sample Essay 2
 
-[How To Add Images](essays/add-images.md)
+[How To Add Images](essays/add-images.md) - Sample Essay 3
 
-[How To Link to a PDF](essays/pdf-link-demo.md)
+[How To Link to a PDF](essays/pdf-link-demo.md) - Sample Essay 4
 
 <div class="note">Essays listed from newest to oldest.</div>
 <div class="divider">* * *</div>
-
-<!-- <form id="subscribe" action="https://buttondown.com/api/emails/embed-subscribe/quartermile" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/quartermile', 'popupwindow');return true;" class="newsform">
-  <label for="bd-email">Want to get updated when we post new essays? Enter your email here. No spam, just essays.</label>
-  <div class="inputs">
-    <input type="email" name="email" id="bd-email" required>
-    <input type="submit" value="Subscribe">
-  </div>
-</form> -->
 
 </div>
