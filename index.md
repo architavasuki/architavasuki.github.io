@@ -1,66 +1,126 @@
 ---
 layout: default
+title: Quarter Mile
 ---
 
-<div id="projects">
-  <h2>Selected Projects in Data Science</h2>
+<style>
+body {
+  background: #fbfbeb;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  color: #403324;
+  margin: 0;
+  min-height: 100vh;
+}
+.nav {
+  width: 100%;
+  max-width: 750px;
+  border-bottom: 1px solid #b3b3ac;
+  display: flex;
+  justify-content: space-between;
+  margin: 2.5rem auto 2.5rem auto;
+  padding-bottom: 0.5rem;
+}
+.nav a {
+  color: #403324;
+  text-decoration: none;
+  font-size: 1.08em;
+}
+.nav a:hover {
+  text-decoration: underline;
+}
+.center-img {
+  display: block;
+  margin: 0 auto 2.5rem auto;
+  max-width: 420px;
+  width: 100%;
+  border-radius: 2px;
+  height: auto;
+}
+.essays {
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 1em;
+}
+.essays a {
+  color: #403324;
+  text-decoration: none;
+}
+.essays a:hover {
+  text-decoration: underline;
+}
+.note {
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+.divider {
+  margin: 1.6rem 0;
+  text-align: center;
+  font-size: 1.2em;
+}
+.newsform {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 400px;
+  margin: 1.5rem auto;
+  gap: 0.7rem;
+}
+.newsform label {
+  text-align: center;
+  font-size: 0.98em;
+}
+.newsform .inputs {
+  display: flex;
+  width: 100%;
+  gap: 7px;
+}
+.newsform input[type="email"] {
+  flex: 1;
+  padding: 6px;
+  border: 1px solid #b3b3ac;
+  font-size: 1em;
+}
+.newsform input[type="submit"] {
+  padding: 6px 18px;
+  border: 1px solid #b3b3ac;
+  background: #fbfbeb;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.newsform input[type="submit"]:hover {
+  background: #d3d3cd;
+}
+</style>
+<link href="https://fonts.googleapis.com/css?family=Inter:400,400italic&display=swap" rel="stylesheet">
 
-  <div class="project">
-    <h3 class="project-title"><a href="/sample_page">Project 1 Title</a></h3>
-    <div class="center-image">
-      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Project 1">
-      <p class="image-caption">Brief description of Project 1</p>
-    </div>
-    <p class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget magna eu nisl fermentum consectetur. Proin facilisis, eros eget commodo faucibus, nunc arcu convallis risus, vel volutpat neque purus ut nibh.</p>
-  </div>
-
-  <div class="project">
-    <h3 class="project-title"><a href="/pdf/sample_presentation.pdf">Project 2 Title</a></h3>
-    <div class="center-image">
-      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Project 2">
-      <p class="image-caption">Brief description of Project 2</p>
-    </div>
-    <p class="project-description">Nulla facilisi. Donec euismod tincidunt nibh, non fermentum urna accumsan at. Cras ut magna vel magna commodo scelerisque. Nulla facilisi. Sed luctus augue vitae dui finibus, vel volutpat libero vehicula.</p>
-  </div>
-
-  <div class="project">
-    <h3 class="project-title"><a href="http://example.com/">Project 3 Title</a></h3>
-    <div class="center-image">
-      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Project 3">
-      <p class="image-caption">Brief description of Project 3</p>
-    </div>
-    <p class="project-description">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam in est at orci cursus vehicula. Integer vitae libero neque. Nullam eu magna vitae neque commodo posuere.</p>
-  </div>
+<div class="nav">
+  <a href="/">Writing</a>
+  <a href="#subscribe">Subscribe</a>
+  <a href="#contact">Contact</a>
 </div>
 
-<div id="skills">
-  <h2>Skill Based Projects</h2>
-  <p>A selection of smaller projects demonstrating specific data science and ML skills.</p>
-  
-  <ul class="skills-list">
-    <li>
-      <a href="https://github.com/architavasuki/genetic_algorithms" target="_blank" rel="noopener noreferrer">Genetic Algorithm Project</a>, 
-      <a href="https://themathcompany.com/blog/from-route-to-resource-optimization-augmenting-innovation-with-genetic-algorithms" target="_blank" rel="noopener noreferrer">Article</a>
-    </li>
-    <li><a href="http://example.com/">Project 2 Title</a></li>
-    <li><a href="http://example.com/">Project 3 Title</a></li>
-    <li><a href="http://example.com/">Project 4 Title</a></li>
-    <li><a href="http://example.com/">Project 5 Title</a></li>
-  </ul>
-</div>
+<img src="https://ext.same-assets.com/1232980843/938722091.jpeg" class="center-img" alt="Quarter Mile Cars">
 
-<div id="blog">
-  <h2>Blog Posts</h2>
-  
-  <div class="blog-post">
-    <h3 class="blog-title"><a href="https://medium.com/@archita.vasu">Sample Blog Post Title</a></h3>
-    <div class="center-image">
-      <img src="images/dummy_thumbnail.jpg?raw=true" alt="Blog Post Image">
-      <p class="image-caption">Caption for the blog post image</p>
-    </div>
-    <div class="blog-content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p><a href="https://medium.com/@archita.vasu">Read on Medium →</a></p>
-    </div>
+<div class="essays">
+
+[Sample Essay 1](essays/essay1.md)
+
+[Sample Essay 2](essays/essay2.md)
+
+[How To Add Images](essays/add-images.md)
+
+[How To Link to a PDF](essays/pdf-link-demo.md)
+
+<div class="note">Essays listed from newest to oldest.</div>
+<div class="divider">* * *</div>
+
+<!-- <form id="subscribe" action="https://buttondown.com/api/emails/embed-subscribe/quartermile" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/quartermile', 'popupwindow');return true;" class="newsform">
+  <label for="bd-email">Want to get updated when we post new essays? Enter your email here. No spam, just essays.</label>
+  <div class="inputs">
+    <input type="email" name="email" id="bd-email" required>
+    <input type="submit" value="Subscribe">
   </div>
+</form> -->
+
 </div>
