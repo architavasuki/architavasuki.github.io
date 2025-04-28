@@ -6,3 +6,11 @@ url: "" # the base hostname & protocol, e.g. http://example.com
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
