@@ -10,7 +10,8 @@ body {
   color: #403324;
   margin: 0;
   padding: 0;
-  line-height: 1.4;
+  line-height: 0.93; /* Reduced line height by 2/3 from 1.4 */
+  font-size: 0.67em; /* Reduced overall font size by ~2/3 */
 }
 
 .container {
@@ -47,7 +48,8 @@ body {
 }
 
 .nav a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  color: #8b7355; /* Light brown color on hover */
 }
 
 .center-img {
@@ -70,7 +72,7 @@ body {
   text-decoration: none;
   display: block;
   margin: 0.6rem 0;
-  line-height: 1.4;
+  line-height: 0.93; /* Reduced line height by 2/3 from 1.4 */
 }
 
 .essays a:hover {

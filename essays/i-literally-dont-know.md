@@ -53,7 +53,7 @@ body {
 .content {
   max-width: 620px;
   margin: 0 auto;
-  text-align: left;
+  text-align: justify;
   font-size: 0.95em;
   line-height: 1.5;
 }
