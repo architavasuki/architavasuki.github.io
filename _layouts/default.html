@@ -70,17 +70,30 @@
       font-size: 0.95em;
     }
 
-    .essays a, .projects a {
-      color: #403324;
-      text-decoration: none;
-      display: block;
-      margin: 0.6rem 0;
+    .essays .essay-item {
+      display: flex;
+      align-items: baseline;
+      margin-bottom: 0.6rem;
       line-height: 0.93;
     }
 
-    .essays a:hover, .projects a:hover {
-      /* text-decoration: underline; */
-      color: #8b7355; /* Light brown color on hover */
+    .essays .essay-item .date {
+      width: 65px;
+      flex-shrink: 0;
+      color: #6c757d;
+      font-size: 0.9em;
+      margin-right: 1.5rem;
+    }
+
+    .essays .essay-item a,
+    .projects a {
+      color: #403324;
+      text-decoration: none;
+    }
+
+    .essays .essay-item a:hover,
+    .projects a:hover {
+      color: #8b7355;
     }
 
     /* Styles for essay content */

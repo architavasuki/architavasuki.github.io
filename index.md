@@ -5,23 +5,50 @@ title: Archita Vasuki
 
 <img src="assets/img/fast-car.jpg" class="center-img" alt="Archita Vasuki">
 
+<h2 style="font-family: 'Inter', sans-serif; font-size: 1em;">2025</h2>
 <div class="essays">
-  <a href="essays/i-literally-dont-know">inspiration for life/work</a>
-  <a href="essays/why-data-science">why data science</a>
-  <a href="essays/emails-for-humans">startups are not supposed to be easy</a>
-  <a href="essays/what-may-not-age-well">being an actual adult after 25 years</a>
-  <a href="essays/sailors-and-rowers">frameworks for being efficient at work</a>
-  <a href="essays/startup-questions">questions to ask before you join a startup</a>
-  <a href="essays/consider-opposite">consider the opposite</a>
-  <!-- <a href="essays/who-did-the-work">Who Did The Work?</a> -->
-  <a href="essays/not-suck-at-job">how to not suck at your job</a>
-  <a href="essays/challenge-beliefs">questions to challenge your beliefs</a>
-  <a href="essays/scrolling-addiction">curing my scrolling addiction</a>
-  <!-- <a href="essays/unconventional-adventures">Unconventional Adventures</a> -->
-  <!-- <a href="essays/questions-for-vcs">Questions for VCs</a> -->
-  <a href="essays/cool-websites">cool websites</a>
-  <a href="essays/fav-blogs">fav blogs</a>
-  <a href="essays/linkedin-posts">linkedin posts i like</a>
+  <div class="essay-item">
+    <span class="date">Apr 22</span> <a href="essays/i-literally-dont-know">I Literally Don't Know</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Apr 18</span> <a href="essays/emails-for-humans">Emails for Humans</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Apr 08</span> <a href="essays/what-may-not-age-well">What May Not Age Well</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Mar 25</span> <a href="essays/flight-delays">More Than You Ever Wanted to Know About Flight Delays</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Mar 10</span> <a href="essays/sailors-and-rowers">Sailors and Rowers</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Feb 28</span> <a href="essays/startup-questions">Questions to Ask Before You Join a Startup</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Feb 15</span> <a href="essays/consider-opposite">Consider the Opposite</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Feb 01</span> <a href="essays/who-did-the-work">Who Did The Work?</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Jan 20</span> <a href="essays/not-suck-at-job">How to Not Suck at Your Job</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Jan 05</span> <a href="essays/challenge-beliefs">Questions to Challenge Your Beliefs</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Dec 15</span> <a href="essays/scrolling-addiction">Cure Your Scrolling Addiction</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Dec 01</span> <a href="essays/unconventional-adventures">Unconventional Adventures</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Nov 18</span> <a href="essays/questions-for-vcs">Questions for VCs</a>
+  </div>
+  <div class="essay-item">
+    <span class="date">Nov 05</span> <a href="essays/cool-websites">Cool Websites</a>
+  </div>
 </div>
 
 <div style="text-align: center;">***</div>
