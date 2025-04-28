@@ -10,8 +10,8 @@ body {
   color: #403324;
   margin: 0;
   padding: 0;
-  line-height: 0.93; /* Reduced line height by 2/3 from 1.4 */
-  font-size: 0.67em; /* Reduced overall font size by ~2/3 */
+  line-height: 0.8; /* Reduced line height by 2/3 from 1.4 */
+  font-size: 0.8em; 
 }
 
 .container {
