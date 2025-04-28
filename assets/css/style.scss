@@ -12,10 +12,12 @@ body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #FFFDF5;
-  max-width: 1200px;
+  background-color: #fffcf0;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0 20px;
+  font-size: 18px;
+  letter-spacing: 0.2px;
 }
 
 a {
@@ -30,56 +32,39 @@ a:hover {
 
 /* Header */
 header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 30px 0;
+  padding: 15px 0;
   border-bottom: 1px solid #eee;
-}
-
-.profile-section {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-}
-
-.profile-image {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-.name {
-  font-size: 18px;
-  font-weight: 600;
+  text-align: center;
 }
 
 nav {
   display: flex;
-  gap: 30px;
+  justify-content: center;
+  gap: 120px;
 }
 
 nav a {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
+  letter-spacing: 0.2px;
 }
 
 /* Main content */
 main {
-  margin: 50px 0;
+  margin: 80px 0;
 }
 
 .hero {
-  margin-bottom: 60px;
+  margin-bottom: 80px;
 }
 
 .bio {
-  max-width: 700px;
+  max-width: 800px;
   margin: 0 auto;
   text-align: center;
-  font-size: 18px;
-  line-height: 1.5;
+  font-size: 20px;
+  line-height: 1.6;
+  letter-spacing: 0.3px;
 }
 
 .bio a {
@@ -92,7 +77,7 @@ main {
 
 /* Project section */
 .content h2 {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
   border-bottom: 1px solid #eee;
@@ -148,18 +133,24 @@ main {
 }
 
 /* Blog posts */
-.blog-post {
-  margin-bottom: 30px;
+.blog-links {
+  margin-top: 30px;
 }
 
-.blog-title {
+.blog-links p {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.blog-links a {
   font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 5px;
+  line-height: 1.8;
+  color: #333;
+  text-decoration: none;
 }
 
-.blog-content {
-  text-align: justify;
+.blog-links a:hover {
+  color: #666;
 }
 
 /* Footer */
