@@ -10,7 +10,7 @@ title: Archita Vasuki
   <div class="essay-item">
     <span class="date">Apr 22</span> <a href="essays/i-literally-dont-know">I Literally Don't Know</a>
   </div>
-  <div class="essay-item">
+  <!-- <div class="essay-item">
     <span class="date">Apr 18</span> <a href="essays/emails-for-humans">Emails for Humans</a>
   </div>
   <div class="essay-item">
@@ -45,9 +45,19 @@ title: Archita Vasuki
   </div>
   <div class="essay-item">
     <span class="date">Nov 18</span> <a href="essays/questions-for-vcs">Questions for VCs</a>
-  </div>
+  </div> -->
   <div class="essay-item">
-    <span class="date">Nov 05</span> <a href="essays/cool-websites">Cool Websites</a>
+    <span class="date">Apr 05</span> <a href="essays/find-leverage">finding leverage</a>
+  </div>  
+    <div class="essay-item">
+    <span class="date">Jan 05</span> <a href="essays/cool-websites">Cool Websites</a>
+  </div>  
+</div>
+
+<h2 style="font-family: 'Inter', sans-serif; font-size: 1em;">2024</h2>
+<div class="essays">
+  <div class="essay-item">
+    <span class="date">Apr 22</span> <a href="essays/i-literally-dont-know">I Literally Don't Know</a>
   </div>
 </div>
 
